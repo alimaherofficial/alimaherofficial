@@ -61,3 +61,9 @@
 <img src="https://raw.githubusercontent.com/alimaherofficial/alimaherofficial/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alimaherofficial/count.svg?"  />
+</div>
+
+###
